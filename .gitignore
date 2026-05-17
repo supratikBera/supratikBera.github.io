@@ -1,0 +1,7 @@
+# Operating System Files
+.DS_Store
+Thumbs.db
+
+# Code Editor settings (Optional)
+.vscode/
+.idea/
